@@ -2,13 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Data Science Portfolio
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+Machine learning
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Currently enrolled in an Executive PG Programme in ML & AI with IIIT-B and UPGRAD.
 
 # Header 1
 
