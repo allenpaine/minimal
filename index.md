@@ -18,11 +18,3 @@ This was a project assigned to us to implement the basic Github knowledge that w
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 (This is a project copied from Sajan Kedia's portfolio for demo purposes)
 [Link to the project](https://github.com/sajankedia/fraud_detection).
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
