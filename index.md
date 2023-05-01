@@ -1,19 +1,17 @@
 ---
 layout: default
 ---
-
-Data Science Portfolio
-
-Machine learning
+# Data Science Portfolio
+---
 
 Currently enrolled in an Executive PG Programme in ML & AI with IIIT-B and UPGRAD.
 
-# Project on Github
+## Project on Github
 
 This was a project assigned to us to implement the basic Github knowledge that was taught in the Github module.
 [View on Github](https://github.com/allenpaine/Course).
 
-# Fraud Detection
+## Fraud Detection
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 (This is a project copied from Sajan Kedia's portfolio for demo purposes)
